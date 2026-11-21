@@ -1,0 +1,14 @@
+[
+  {
+    "modid": "hivemind",
+    "name": "HiveMind",
+    "description": "A deep-learning hive mind that coordinates configured mobs to hunt players and siege their bases.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": [],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
